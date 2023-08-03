@@ -1,11 +1,11 @@
-# Fotos: Localidad YYY - UPZ XXX - Barrio ZZZ
+# Fotos: Localidad Suba - UPZ Niza - Barrio Niza Real
 
 <img width="500" alt="Zona de trabajo" src="Zona de trabajo.png">
 
 Estas son las fechas de captura de las fotos:
 
-* Aéreas desde drone: YYYY-MM-DD
-* A nivel de calle: YYYY-MM-DD
+* Aéreas desde drone: 2023-08-02
+* A nivel de calle: 2023-07-30
   * Secuencia en Mapillary:
 
 Hay diferente tipos de fotos:
